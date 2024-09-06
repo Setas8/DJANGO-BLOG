@@ -1,3 +1,7 @@
+# Project Title
+
+This repository contains a project developed as part of the coursework for the **Higher Degree in Multimedia Application Development (DAM)** at **IES El Cañaveral de Móstoles, Madrid**.
+
 # Blog Project with Django
 
 This is a simple blog application built with Django. Users can read blog posts that are listed in chronological order.
