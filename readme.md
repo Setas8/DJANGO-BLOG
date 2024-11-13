@@ -60,6 +60,3 @@ This is a simple blog application built with Django. Users can read blog posts t
 2. Open your web browser and go to `http://127.0.0.1:8000/` to see the blog posts.
 
 3. Access the Django admin at `http://127.0.0.1:8000/admin/` to manage blog posts.
-
-## Project Structure
-
